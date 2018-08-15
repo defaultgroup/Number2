@@ -54,16 +54,16 @@ margin-left: 100px
   ">
   <br>
   <br>
-  <input type ="button" value="포메라니안" class="button" onclick="alert('E')
+  <input type ="button" value="포메라니안" class="button" onclick="alert('E')">
   <br>
   <br>
   <input type ="button" value="골든리트리버" class="button" onclick="alert('L')
   ">
   <br>
   <br>
-<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="next"> <button> 다음문제로! </button></a>
-<a href="https://defaultgroup.github.io/START/" id="first"> <button> 처음으로! </button></a>
-<a href="https://defaultgroup.github.io/END/" id="final"> <button> 최종정답으로! </button></a>
+<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="next" class="button"> <button> 다음문제로! </button></a>
+<a href="https://defaultgroup.github.io/START/" id="first" class="button"> <button> 처음으로! </button></a>
+<a href="https://defaultgroup.github.io/END/" id="final" class="button"> <button> 최종정답으로! </button></a>
   <br>
   <br>
   <br>
