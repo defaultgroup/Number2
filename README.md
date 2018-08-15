@@ -35,11 +35,6 @@ margin-left: 100px
 }
     </style>
 <body onload="question()">
-  <script>
-    function question(){
-      alert("첫번째 문제입니다 잘 맞춰주세요")
-    }
-  </script>
   <h1><center> "이 개의 종은 무엇일까요?" </center></h1><br>
   <br>
   <br>
