@@ -27,7 +27,7 @@ text-align: center;
 <body onload="question()">
     <script>
     function question(){
-      alert("번째 문제입니다 잘 맞춰주세요")
+      alert("두번째 문제입니다 잘 맞춰주세요")
     }
   </script>
   <h1><center> "이 개의 종은 무엇일까요?" </center></h1><br>
@@ -56,7 +56,7 @@ text-align: center;
   ">
   <br>
   <br>
-<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert"> <button class="button"> 다음문제로! </button></a>
+<a href="https://defaultgroup.github.io/Number3/"> <button class="button"> 다음문제로! </button></a>
 <a href="https://defaultgroup.github.io/START/"> <button class="button"> 처음으로! </button></a>
 <a href="https://defaultgroup.github.io/END/"> <button class="button"> 최종정답으로! </button></a>
   <br>
