@@ -23,16 +23,6 @@ text-align: center;
         background-color: f44336;
         color: white;
       }
-#next {
-margin-right: 100px;
-}
-#first{
-margin-left: 100px;
-margin-right: 100px;
-}
-#final{
-margin-left: 100px
-}
     </style>
 <body onload="question()">
   <h1><center> "이 개의 종은 무엇일까요?" </center></h1><br>
@@ -61,9 +51,9 @@ margin-left: 100px
   ">
   <br>
   <br>
-<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" id="next" class="button"> <button> 다음문제로! </button></a>
-<a href="https://defaultgroup.github.io/START/" id="first" class="button"> <button> 처음으로! </button></a>
-<a href="https://defaultgroup.github.io/END/" id="final" class="button"> <button> 최종정답으로! </button></a>
+<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" class="button"> <button> 다음문제로! </button></a>
+<a href="https://defaultgroup.github.io/START/" class="button"> <button> 처음으로! </button></a>
+<a href="https://defaultgroup.github.io/END/" class="button"> <button> 최종정답으로! </button></a>
   <br>
   <br>
   <br>
