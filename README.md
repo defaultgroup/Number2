@@ -51,11 +51,10 @@ text-align: center;
   ">
   <br>
   <br>
-<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert" class="button"> <button> 다음문제로! </button></a>
-<a href="https://defaultgroup.github.io/START/" class="button"> <button> 처음으로! </button></a>
-<a href="https://defaultgroup.github.io/END/" class="button"> <button> 최종정답으로! </button></a>
+<a href="https://www.w3schools.com/js/tryit.asp?filename=tryjs_alert"> <button class="button"> 다음문제로! </button></a>
+<a href="https://defaultgroup.github.io/START/"> <button class="button"> 처음으로! </button></a>
+<a href="https://defaultgroup.github.io/END/"> <button class="button"> 최종정답으로! </button></a>
   <br>
   <br>
   <br>
   </body>
-</html>
